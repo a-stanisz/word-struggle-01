@@ -1,2 +1,5 @@
 /dummy-docs
 /__pycache__
+/output
+*.docx
+*.doc
